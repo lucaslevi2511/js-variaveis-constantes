@@ -1,8 +1,8 @@
 # Javascript variáveis e constantes
 
-### Variáveis
+### Variáveis (let)
 
-- Um espaço na memória para armazenar uma informação/valor
+- Um espaço na memória para armazenar uma informação/valor que pode ser alterada.
 
 #### Padrões de nomenclatura
 
@@ -19,5 +19,19 @@ ex: nome_completo
 Pascalcase: Começa cada palavra com maiúscula.
 ex: NomeCompleto.
 
+### Constantes(const)
+- Espaço da memória que não pode ser alterado posteriormente.
 
+### Tipos de dados
+- Variáveis e constantes possuem tipos e os principais são: string, number e booelean.
+
+# Javascript operadores
+### De atribuição
+- = (iguala), += (atribui uma soma), -= (atribui uma subtração).
+### Aritméticos
+- + (soma), - (subtração), * (multiplicação), / (divisão), % (resto de divisão).
+### Comparação
+- == (x igual a um valor), != (x diferente a um valor), === (x igual a um tipo e a  um valor), !== (x diferente a um tipo e a um valor), < (menor que), > (maior que), <= (menor ou igual a), >= (maior igual a).
+### Operadores Lógicos
+- ! (negação), !! (falsy), && (e), || (ou)
 
